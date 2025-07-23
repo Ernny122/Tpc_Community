@@ -1,0 +1,79 @@
+history
+    1  touch index.js
+    2  echo 'console.log("Hello world");' >
+    3  mkdir hello-world
+    4  cd hello-world
+    5  touch index.js
+    6  echo 'console.log("Hello world");' >
+    7  echo 'console.log("Hello world");'
+    8  echo 'console.log("Hello world");' > index.js
+    9  git init
+   10  git add
+   11  git add .
+   12  git commit -m "Add hello.js with Hello world"
+   13  git remote add origin https://github.com/0407315467081/js-hello.git
+   14  git push origin master
+   15  git push origin maingfgfth
+   16  git push origin main
+   17  git remote add origin https://github.com/Ernny122/hello-world.git
+   18  git push origin master
+   19  git push or
+   20  git push origin main
+   21  mkdir hello-world
+   22  cd hello-world
+   23  touch index.js
+   24  echo 'console.log("Hello World");' >index.js
+   25  git init
+   26  git add .
+   27  git commit -m "Add hello.js with Hello World"
+   28  git remote add origin https://github.com/Ernny122/hello-world.git
+   29  mkdir hello-world
+   30  cd hello-world
+   31  touch index.js
+   32  echo 'console.log("hello-world");' > index.js
+   33  git init
+   34  git add
+   35  git add .
+   36  git commit -m "Add hello.js with hello-world"
+   37  git remote add origin https://github.com/Ernny122/hello-world.git
+   38  git push origin master
+   39  git push origin main
+   40  git push origin main
+   41  git push origin master
+   42  mkdir Tpc_community
+   43  cd Tpc_community
+   44   automation_scripts/ touch deploy.sh
+   45
+   46  mkdir Tpc_community
+   47  cd Tpc_community
+   48  mkdir automation_scripts/
+   49  cd automation_scripts/
+   50  touch deploy.sh
+   51  cd ..
+   52  mkdir documantation/
+   53  cd documantation/
+   54  touch style_guide.txt
+   55  cd ..
+   56  git init
+   57  git remote add origin https://github.com/Ernny122/Tpc_Community.git
+   58  git add .
+   59  git commit -m"1.I created a local respitory named 'Tpc_community' 2.I created 2 more folders inside 'Tpc_community' named 'automation_scripts/' and 'documantation/' 3.I then created a file named 'deploy.sh' inside 'automation_scripts/' and a file named 'style_guide.txt' inside 'documantation/'"
+   60  git clone https://github.com/Ernny122/tpc-community.git
+   61  history
+   62  cd automation_scripts/
+   63  ls
+   64  nano deploy.sh
+   65  nano deploy.sh
+   66  cd documantation/
+   67  ls
+   68  pwd
+   69  cd documantation/
+   70  nano style_guide.txt
+   71  history
+   72  codee .
+   73  code .
+   74  cd ..
+   75  code .
+   76  git push https://github.com/Ernny122/tpc-community.git
+   77  git push origin master
+   78  history
